@@ -3,10 +3,12 @@ Creating random passwords by the random Python library </br>
 <img src="https://github.com/EmirHosen/Password-generator/blob/main/cmd%20password%20generator.png?raw=true" style="border-radius: 16px;">
 <h2>How Use :</h2> 
 
-<code>1. Donwload Files</code> </br>
-<code>2. Open CMD</code> </br>
-<code>3. Type ( cd/desktop ) </code> </br>
-<code>4. Type ( Python password-generato ) </code> </br>
+```
+1. Donwload Filescd python
+2. Open CMD
+3. Type ( cd/desktop )
+4. Type ( Python password-generato )
+```
 
 ### Skills
 <p align="left">
@@ -14,7 +16,9 @@ Creating random passwords by the random Python library </br>
   
 </p>
 
-### Support Me
+
+
+### Support Me / Happy coding guys!😀
 <a href="https://www.buymeacoffee.com/EmirHosens"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-
+ 
