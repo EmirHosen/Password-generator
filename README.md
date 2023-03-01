@@ -4,7 +4,7 @@ Creating random passwords by the random Python library </br>
 <h2>How Use :</h2> 
 
 ```
-1. Donwload Filescd python
+1. Donwload Files
 2. Open CMD
 3. Type ( cd/desktop )
 4. Type ( Python password-generato )
